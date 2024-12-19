@@ -16,6 +16,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ExcelEmail.Controllers.MailDocumentController",
+    "Method": "UploadAndSend",
+    "RelativePath": "api/MailDocument/UploadAndSend",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "excelFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ExcelEmail.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

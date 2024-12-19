@@ -105,7 +105,7 @@ namespace ExcelEmail.Controllers
                 using (var smtpClient = new SmtpClient("smtp.gmail.com") // Replace with your SMTP server
                 {
                     Port = 587, // Change to the correct SMTP port
-                    Credentials = new NetworkCredential("nagadevikumaran01@gmail.com", "eagn tbuz gsor ohec"), // Replace with your credentials
+                    Credentials = new NetworkCredential("nagadevikumaran01@gmail.com", "lnde fzwr vgbz ybny"), // Replace with your credentials
                     EnableSsl = true,
                 })
                 {
