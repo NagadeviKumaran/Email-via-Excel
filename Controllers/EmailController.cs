@@ -46,7 +46,7 @@ namespace ExcelEmail.Controllers
         //    }
         //}
 
-        
+
         [HttpPost("upload-and-send")]
         public async Task<IActionResult> UploadAndSend(IFormFile file)
         {

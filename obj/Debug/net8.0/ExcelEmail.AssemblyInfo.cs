@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExcelEmail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b29ec26fb3e47f13ef01693872ab3d3a13f778a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfbf46c70a0d394da5ff5cbbb8aad07b6db6061f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExcelEmail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExcelEmail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
